@@ -1,16 +1,20 @@
 # btrcfp
 
+Proposition pour les CFP des conférences techniques.
+
+La [page discussion](https://github.com/guilhem/btrcfp/discussions) est ouverte pour pouvoir en discuter et les PR sont plus que bienvenues.
+
 ## But
 
 Diversifier et débiaiser les conférences
 
 ## Moyens
 
-### comité
+### [comité](https://github.com/guilhem/btrcfp/discussions/categories/comit%C3%A9)
 
 - comité par spécialité
 
-### abstract
+### [abstract](https://github.com/guilhem/btrcfp/discussions/categories/abstract-travail)
 
 - anonymisation
   - OK pour travail sur les abstracts, mais compliqué sur un "paper" entier
@@ -19,12 +23,12 @@ Diversifier et débiaiser les conférences
   - résumer réalisé par le comité une fois son choix fait.
 - pas de doubon d'une conférence déjà faite dans un laps de temps
 
-### organisationnel
+### [organisationnel](https://github.com/guilhem/btrcfp/discussions/categories/organisationnel)
 
 - si plusieurs sujets, proposer une jointure ou une table rond
 - le comité peut échanger durant toute la procédure avec le speaker.
 
-### notation
+### [notation](https://github.com/guilhem/btrcfp/discussions/categories/notation)
 
 - notes par parties au choix de la conférence. Par exemple:
   - nouveauté
